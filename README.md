@@ -5,5 +5,5 @@ yum -y install wget
 yum install git
 
 ``` bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubiBackup/doubi/master/ssrmu.sh && chmod +x ssrmu.sh && bash ssrmu.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/Jackxiachn/shadowsocksR/master/ssrmu.sh && chmod +x ssrmu.sh && bash ssrmu.shssrmu.shssrmu.sh
 ```
