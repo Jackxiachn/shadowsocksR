@@ -1,6 +1,7 @@
 ssrmu.sh
 
 yum -y install wget
+
 yum install git
 
 ``` bash
